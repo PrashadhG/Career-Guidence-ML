@@ -1,0 +1,920 @@
+[
+  {
+    "question": "Which activity excites you the most?",
+    "options": [
+      "A) Designing or creating something new",
+      "B) Solving complex problems or puzzles",
+      "C) Leading and managing people",
+      "D) Conducting research and analyzing data"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "creative",
+      "B": "technical", 
+      "C": "business",
+      "D": "technical"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you had an entire day free, what would you most likely do?",
+    "options": [
+      "A) Work on an art or music project",
+      "B) Read scientific articles or solve math problems",
+      "C) Organize an event or network with people",
+      "D) Volunteer for a social cause"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "arts",
+      "B": "stem",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which subject did you enjoy most in school?",
+    "options": [
+      "A) Arts and creative subjects",
+      "B) Science and mathematics",
+      "C) Business and economics",
+      "D) History and literature"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "arts",
+      "B": "stem",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of books or content do you prefer to read?",
+    "options": [
+      "A) Fiction, poetry, or creative writing",
+      "B) Non-fiction, science, or technical materials",
+      "C) Business, self-improvement, or leadership books",
+      "D) Social issues, philosophy, or psychology"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "arts",
+      "B": "stem",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these activities would you find most engaging?",
+    "options": [
+      "A) Developing a new app or software program",
+      "B) Creating artwork or designing something visual",
+      "C) Planning and organizing an event",
+      "D) Teaching or mentoring others"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of YouTube videos or online content do you most often seek out?",
+    "options": [
+      "A) Tutorials and how-to guides",
+      "B) Creative content and entertainment",
+      "C) Business, finance, or entrepreneurship",
+      "D) Social issues, education, or psychology"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "In a group project, which role would you naturally gravitate toward?",
+    "options": [
+      "A) The creative idea generator",
+      "B) The analytical problem solver",
+      "C) The organizer and coordinator",
+      "D) The people-focused mediator"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "creative",
+      "B": "analytical",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these weekend activities sounds most appealing?",
+    "options": [
+      "A) Attending a workshop to learn a new skill",
+      "B) Going to an art exhibition or performance",
+      "C) Networking at a professional event",
+      "D) Participating in a community service project"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of TV shows or movies do you prefer?",
+    "options": [
+      "A) Documentaries about science or technology",
+      "B) Creative, artistic, or design-focused shows",
+      "C) Shows about business, entrepreneurship, or strategy",
+      "D) Dramas focused on human relationships and social issues"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these would you most enjoy creating or building?",
+    "options": [
+      "A) A beautiful work of art or design",
+      "B) A technical solution to a complex problem",
+      "C) A successful business or organization",
+      "D) A program that helps people in need"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "creative",
+      "B": "technical",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What aspects of a potential job would excite you most?",
+    "options": [
+      "A) Working with technology and solving technical challenges",
+      "B) Having creative freedom and artistic expression",
+      "C) Building strategies and making business decisions",
+      "D) Helping others and making a positive impact"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these problems would you feel most motivated to solve?",
+    "options": [
+      "A) A technical challenge requiring engineering or scientific solutions",
+      "B) A design problem needing creative and aesthetic solutions",
+      "C) A business challenge requiring strategic thinking",
+      "D) A social issue needing community engagement and support"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What would you most enjoy learning more about?",
+    "options": [
+      "A) New technologies or scientific discoveries",
+      "B) Art techniques or design principles",
+      "C) Business strategies or market trends",
+      "D) Psychology or human behavior"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which type of museum or exhibition would you most enjoy visiting?",
+    "options": [
+      "A) Science and technology museum",
+      "B) Art or design gallery",
+      "C) Business or innovation showcase",
+      "D) Historical or cultural museum"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of mobile apps do you use most frequently?",
+    "options": [
+      "A) Productivity tools and educational apps",
+      "B) Creative tools and entertainment apps",
+      "C) Finance, business, or networking apps",
+      "D) Social, community, or wellness apps"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "When browsing the internet, what topics do you tend to explore most?",
+    "options": [
+      "A) Technology, coding, or scientific topics",
+      "B) Art, design, music, or creative inspiration",
+      "C) Business news, entrepreneurship, or investing",
+      "D) Social issues, psychology, or human interest stories"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which school club or extracurricular activity would you most likely join?",
+    "options": [
+      "A) Robotics club or science olympiad",
+      "B) Art club or musical theater",
+      "C) Business club or student government",
+      "D) Volunteer organization or peer counseling"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of conference or event would you be most interested in attending?",
+    "options": [
+      "A) Tech conference or scientific symposium",
+      "B) Design festival or arts showcase",
+      "C) Business summit or entrepreneurship workshop",
+      "D) Social impact conference or community forum"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you were to start a side project, what would it most likely involve?",
+    "options": [
+      "A) Building a website, app, or technical solution",
+      "B) Creating artwork, music, or design projects",
+      "C) Starting a small business or monetizing a hobby",
+      "D) Organizing a community initiative or support group"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these skills would you most like to develop further?",
+    "options": [
+      "A) Technical skills like coding or data analysis",
+      "B) Creative skills like design or artistic techniques",
+      "C) Business skills like marketing or finance",
+      "D) Interpersonal skills like counseling or teaching"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What would you most likely do with an unexpected financial windfall?",
+    "options": [
+      "A) Invest in technology or educational resources",
+      "B) Fund a creative project or artistic pursuit",
+      "C) Start a business or make strategic investments",
+      "D) Support causes you care about or help others"
+    ],
+    "trait": "value_orientation",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these famous figures would you find most inspiring?",
+    "options": [
+      "A) Innovators and scientists like Elon Musk or Marie Curie",
+      "B) Artists and creators like Frida Kahlo or Steven Spielberg",
+      "C) Business leaders like Steve Jobs or Indra Nooyi",
+      "D) Humanitarians like Malala Yousafzai or Martin Luther King Jr."
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of news do you tend to follow most closely?",
+    "options": [
+      "A) Technology and scientific developments",
+      "B) Arts, culture, and entertainment",
+      "C) Business, markets, and economic trends",
+      "D) Social issues and human interest stories"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which section of a bookstore would you browse first?",
+    "options": [
+      "A) Science, technology, or reference",
+      "B) Arts, photography, or fiction",
+      "C) Business, economics, or self-improvement",
+      "D) Psychology, philosophy, or social sciences"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of podcasts do you typically listen to?",
+    "options": [
+      "A) Science, technology, or educational",
+      "B) Creative storytelling or arts discussion",
+      "C) Business, entrepreneurship, or career advice",
+      "D) Personal development or social issues"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which elective course would you be most excited to take?",
+    "options": [
+      "A) Computer programming or advanced mathematics",
+      "B) Creative writing or visual arts",
+      "C) Entrepreneurship or business management",
+      "D) Psychology or sociology"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of volunteer work would appeal to you most?",
+    "options": [
+      "A) Providing technical support or teaching STEM subjects",
+      "B) Contributing creative skills for community projects",
+      "C) Helping with financial literacy or business mentoring",
+      "D) Direct service to vulnerable populations"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you had to give a presentation, what topic would you be most comfortable with?",
+    "options": [
+      "A) A technical subject explaining how something works",
+      "B) A creative project showcasing artistic elements",
+      "C) A business analysis or strategic proposal",
+      "D) A topic related to social impact or human behavior"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these weekend workshops would you most likely attend?",
+    "options": [
+      "A) Coding bootcamp or science demonstration",
+      "B) Art class or creative writing workshop",
+      "C) Entrepreneurship seminar or networking event",
+      "D) Volunteer training or personal growth workshop"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What aspect of a group project do you typically enjoy most?",
+    "options": [
+      "A) Solving technical problems or handling data/research",
+      "B) Creating visuals or presenting information creatively",
+      "C) Managing the process or developing the strategy",
+      "D) Facilitating group dynamics or ensuring everyone is heard"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of issues or causes are you most passionate about?",
+    "options": [
+      "A) Technological advancement or scientific research",
+      "B) Cultural preservation or artistic expression",
+      "C) Economic development or entrepreneurship",
+      "D) Social justice or humanitarian concerns"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you were to teach a class, what subject would you choose?",
+    "options": [
+      "A) Math, science, or technology",
+      "B) Art, music, or creative writing",
+      "C) Business, economics, or entrepreneurship",
+      "D) Psychology, history, or social studies"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of skills do you most enjoy developing?",
+    "options": [
+      "A) Analytical and logical reasoning skills",
+      "B) Creative and artistic skills",
+      "C) Leadership and strategic thinking skills",
+      "D) Communication and interpersonal skills"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these activities would feel most like 'fun' rather than work to you?",
+    "options": [
+      "A) Building or fixing something technical",
+      "B) Creating art, music, or other creative content",
+      "C) Organizing an event or developing a business plan",
+      "D) Mentoring others or working on a social cause"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "hands_on",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What types of problems do you find most interesting to solve?",
+    "options": [
+      "A) Technical or scientific problems",
+      "B) Design or aesthetic problems",
+      "C) Business or strategic problems",
+      "D) People or social problems"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you could shadow a professional for a day, who would you choose?",
+    "options": [
+      "A) A scientist, engineer, or technology professional",
+      "B) An artist, designer, or creative director",
+      "C) A business leader, entrepreneur, or executive",
+      "D) A counselor, teacher, or nonprofit leader"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of impact would you most like to have through your work?",
+    "options": [
+      "A) Advancing technology or scientific understanding",
+      "B) Enhancing culture or creative expression",
+      "C) Creating economic value or business innovation",
+      "D) Improving people's lives or social conditions"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What part of school projects did you typically enjoy most?",
+    "options": [
+      "A) Researching information and analyzing data",
+      "B) Creating visual elements or designing presentations",
+      "C) Organizing the project plan and delegating tasks",
+      "D) Collaborating with team members and presenting"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of challenge would you find most engaging?",
+    "options": [
+      "A) Figuring out how to make something work or solving a puzzle",
+      "B) Expressing an idea creatively or making something beautiful",
+      "C) Developing a strategy or convincing others of your approach",
+      "D) Understanding someone's needs and figuring out how to help them"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these environments would you find most energizing to work in?",
+    "options": [
+      "A) A high-tech lab or engineering facility",
+      "B) A creative studio or artistic space",
+      "C) A dynamic business setting or entrepreneurial hub",
+      "D) A community-focused organization or educational setting"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What type of recognition would feel most meaningful to you?",
+    "options": [
+      "A) Recognition for a technical achievement or innovation",
+      "B) Appreciation for your creative vision or artistic talent",
+      "C) Acknowledgment of your business success or leadership",
+      "D) Knowing you made a positive difference in people's lives"
+    ],
+    "trait": "value_orientation",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What types of tools or resources do you most enjoy using?",
+    "options": [
+      "A) Technical equipment, software, or analytical tools",
+      "B) Creative tools, instruments, or artistic materials",
+      "C) Productivity software, planning tools, or business resources",
+      "D) Communication platforms, teaching resources, or people-oriented tools"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What would make you feel most fulfilled at the end of a workday?",
+    "options": [
+      "A) Solving a complex technical problem successfully",
+      "B) Creating something original or aesthetically pleasing",
+      "C) Achieving a business goal or implementing a strategy",
+      "D) Helping someone or making a positive social impact"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these career advancement paths would most appeal to you?",
+    "options": [
+      "A) Becoming an expert or specialist in a technical field",
+      "B) Establishing yourself as a creative professional",
+      "C) Advancing to leadership or executive roles",
+      "D) Making a greater impact in a helping profession"
+    ],
+    "trait": "field_preference",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kinds of questions do you find yourself naturally curious about?",
+    "options": [
+      "A) How things work or scientific phenomena",
+      "B) Aesthetic qualities or creative expression",
+      "C) Business dynamics, markets, or organizational behavior",
+      "D) Human behavior, social issues, or psychological concepts"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you were to write a book, what would it most likely be about?",
+    "options": [
+      "A) A technical topic or scientific concept",
+      "B) A creative story or artistic expression",
+      "C) Business strategies or professional development",
+      "D) Human experiences or social issues"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these achievements would make you most proud?",
+    "options": [
+      "A) Creating an innovative technical solution or scientific discovery",
+      "B) Producing a remarkable creative work or artistic achievement",
+      "C) Building a successful business or making a strategic impact",
+      "D) Making a significant difference in people's lives or society"
+    ],
+    "trait": "value_orientation",
+    "mapping": {
+      "A": "technical",
+      "B": "creative",
+      "C": "business",
+      "D": "helping"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What approach to problem-solving feels most natural to you?",
+    "options": [
+      "A) Analyzing data and applying logical reasoning",
+      "B) Using creative thinking and innovative approaches",
+      "C) Developing strategic plans and considering business implications",
+      "D) Understanding people's needs and focusing on impact"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kind of team roles do you typically volunteer for?",
+    "options": [
+      "A) Handling technical aspects or data analysis",
+      "B) Bringing creative ideas or designing presentations",
+      "C) Coordinating logistics or developing strategy",
+      "D) Facilitating communication or supporting team members"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What sort of information catches and holds your attention?",
+    "options": [
+      "A) Technical details and data-driven insights",
+      "B) Visual aesthetics and creative concepts",
+      "C) Business trends and strategic information",
+      "D) Human stories and social phenomena"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "If you were to receive additional education, what would you study?",
+    "options": [
+      "A) Engineering, computer science, or another STEM field",
+      "B) Fine arts, design, or creative media",
+      "C) Business, finance, or management",
+      "D) Psychology, education, or social sciences"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What kinds of activities do you lose track of time doing?",
+    "options": [
+      "A) Working with technology, solving logical problems, or analyzing data",
+      "B) Creating art, designing, or engaging in creative activities",
+      "C) Planning, organizing, or developing business ideas",
+      "D) Helping others, having meaningful conversations, or community activities"
+    ],
+    "trait": "activity_preference",
+    "mapping": {
+      "A": "analytical",
+      "B": "creative",
+      "C": "business",
+      "D": "social"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "Which of these would you most enjoy explaining to someone else?",
+    "options": [
+      "A) How a complex system or technology works",
+      "B) The meaning behind a creative work or design",
+      "C) A business strategy or organizational concept",
+      "D) A social issue or human behavior pattern"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  },
+  {
+    "question": "What aspects of the future are you most interested in?",
+    "options": [
+      "A) Technological advancements and scientific discoveries",
+      "B) Evolving artistic expressions and cultural developments",
+      "C) Economic trends and business innovations",
+      "D) Social changes and human development"
+    ],
+    "trait": "domain_focus",
+    "mapping": {
+      "A": "stem",
+      "B": "arts",
+      "C": "commerce",
+      "D": "humanities"
+    },
+    "category": "interest"
+  }
+]

@@ -1,0 +1,1277 @@
+[
+  {
+    "question": "How do you handle challenges at work?",
+    "options": [
+      "A) I remain calm and look for logical solutions",
+      "B) I seek input from others before deciding",
+      "C) I take risks and try new approaches",
+      "D) I follow structured steps to solve problems"
+    ],
+    "trait": "problem_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "collaborative",
+      "C": "creative",
+      "D": "structured"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you feel about working in a team?",
+    "options": [
+      "A) I prefer working alone with minimal supervision",
+      "B) I enjoy working in teams and leading discussions",
+      "C) I work best in small, close-knit teams",
+      "D) I can adapt to both independent and team-based work"
+    ],
+    "trait": "work_style",
+    "mapping": {
+      "A": "independent",
+      "B": "collaborative",
+      "C": "collaborative",
+      "D": "mixed"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When making decisions, you typically:",
+    "options": [
+      "A) Analyze facts and data objectively",
+      "B) Consider how options affect people involved",
+      "C) Follow your intuition and what feels right",
+      "D) Weigh pros and cons systematically"
+    ],
+    "trait": "decision_making",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "intuitive",
+      "D": "structured"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In group discussions, you are more likely to:",
+    "options": [
+      "A) Share ideas only when they're fully formed",
+      "B) Facilitate the conversation and ensure everyone participates",
+      "C) Generate many possibilities and creative options",
+      "D) Keep the discussion focused on practical outcomes"
+    ],
+    "trait": "social_orientation",
+    "mapping": {
+      "A": "reserved",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "task_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When facing a tight deadline, you typically:",
+    "options": [
+      "A) Create a detailed plan and stick to it",
+      "B) Rally the team and delegate effectively",
+      "C) Focus intensely and work until completion",
+      "D) Prioritize quickly and tackle the most crucial elements"
+    ],
+    "trait": "pressure_response",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "focused",
+      "D": "adaptable"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you typically respond to criticism?",
+    "options": [
+      "A) Analyze it objectively for valid points",
+      "B) Consider how to maintain positive relationships",
+      "C) Look for opportunities for creative improvement",
+      "D) Focus on practical steps for addressing issues"
+    ],
+    "trait": "feedback_reception",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "growth_oriented",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When starting a new project, you prefer to:",
+    "options": [
+      "A) Create a detailed plan before beginning",
+      "B) Discuss and collaborate with team members",
+      "C) Start immediately and figure things out as you go",
+      "D) Establish clear goals and milestones"
+    ],
+    "trait": "work_approach",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "flexible",
+      "D": "goal_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prefer to receive instructions?",
+    "options": [
+      "A) Detailed, step-by-step guidance",
+      "B) Through discussion and conversation",
+      "C) General direction with freedom to determine approach",
+      "D) Clear objectives with defined outcomes"
+    ],
+    "trait": "autonomy_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "independent",
+      "D": "goal_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When something goes wrong, your first reaction is to:",
+    "options": [
+      "A) Analyze what happened and why",
+      "B) Consider how it affects everyone involved",
+      "C) Think of creative solutions to fix it",
+      "D) Create a practical plan to address it"
+    ],
+    "trait": "problem_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In a leadership role, you would most likely:",
+    "options": [
+      "A) Set clear expectations and monitor progress carefully",
+      "B) Focus on team dynamics and individual development",
+      "C) Inspire innovation and creative thinking",
+      "D) Delegate effectively based on individual strengths"
+    ],
+    "trait": "leadership_style",
+    "mapping": {
+      "A": "directive",
+      "B": "supportive",
+      "C": "transformational",
+      "D": "delegative"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When learning something new, you prefer to:",
+    "options": [
+      "A) Study thoroughly before trying it out",
+      "B) Learn alongside others through discussion",
+      "C) Jump in and learn through experience",
+      "D) Follow a structured, step-by-step approach"
+    ],
+    "trait": "learning_style",
+    "mapping": {
+      "A": "reflective",
+      "B": "collaborative",
+      "C": "experiential",
+      "D": "structured"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your workspace is typically:",
+    "options": [
+      "A) Neat and well-organized",
+      "B) Set up to facilitate collaboration",
+      "C) Creative with various inspirational elements",
+      "D) Functional and practical"
+    ],
+    "trait": "organization_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "creative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When communicating ideas, you tend to:",
+    "options": [
+      "A) Be precise and detailed",
+      "B) Focus on how ideas impact people",
+      "C) Use metaphors and creative examples",
+      "D) Be direct and straightforward"
+    ],
+    "trait": "communication_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you typically prepare for an important meeting?",
+    "options": [
+      "A) Create detailed notes and review all relevant information",
+      "B) Think about attendees and relationship dynamics",
+      "C) Generate ideas and possibilities to discuss",
+      "D) Focus on key objectives and desired outcomes"
+    ],
+    "trait": "preparation_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "goal_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When rules or policies seem ineffective, you tend to:",
+    "options": [
+      "A) Follow them anyway out of respect for structure",
+      "B) Discuss concerns with others to build consensus",
+      "C) Suggest creative alternatives or improvements",
+      "D) Focus on the practical impact and necessary changes"
+    ],
+    "trait": "rule_orientation",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "innovative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you handle conflicts with colleagues?",
+    "options": [
+      "A) Address issues logically and objectively",
+      "B) Focus on preserving relationships",
+      "C) Look for creative compromises",
+      "D) Deal with problems directly and efficiently"
+    ],
+    "trait": "conflict_resolution",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your approach to time management is typically:",
+    "options": [
+      "A) Creating detailed schedules and sticking to them",
+      "B) Balancing priorities while being available to others",
+      "C) Staying flexible and adapting as situations develop",
+      "D) Focusing on efficiency and eliminating wasted time"
+    ],
+    "trait": "time_management",
+    "mapping": {
+      "A": "structured",
+      "B": "balanced",
+      "C": "flexible",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When presenting information, you prefer to:",
+    "options": [
+      "A) Include comprehensive data and detailed analysis",
+      "B) Engage the audience and create connection",
+      "C) Use creative visuals and compelling stories",
+      "D) Be concise and focus on key points"
+    ],
+    "trait": "communication_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "creative",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you typically react to unexpected changes?",
+    "options": [
+      "A) Carefully evaluate implications before proceeding",
+      "B) Consider how changes affect everyone involved",
+      "C) Quickly adapt and look for new opportunities",
+      "D) Focus on practical next steps and solutions"
+    ],
+    "trait": "adaptability",
+    "mapping": {
+      "A": "cautious",
+      "B": "people_focused",
+      "C": "flexible",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In brainstorming sessions, you typically:",
+    "options": [
+      "A) Analyze the feasibility of each idea",
+      "B) Encourage everyone's participation",
+      "C) Generate numerous creative possibilities",
+      "D) Keep the discussion focused on practical solutions"
+    ],
+    "trait": "ideation_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "collaborative",
+      "C": "creative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When receiving recognition for success, you prefer:",
+    "options": [
+      "A) Acknowledgment of your specific contributions",
+      "B) Recognition that includes team members",
+      "C) Appreciation for your innovative approach",
+      "D) Practical rewards or advancement opportunities"
+    ],
+    "trait": "recognition_preference",
+    "mapping": {
+      "A": "individual",
+      "B": "collaborative",
+      "C": "creative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach risk in professional situations?",
+    "options": [
+      "A) Carefully analyze potential outcomes before proceeding",
+      "B) Consider how risks might affect team dynamics",
+      "C) Embrace calculated risks that could yield innovation",
+      "D) Take practical risks when benefits clearly outweigh costs"
+    ],
+    "trait": "risk_orientation",
+    "mapping": {
+      "A": "cautious",
+      "B": "considerate",
+      "C": "bold",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When setting goals, you typically focus on:",
+    "options": [
+      "A) Creating detailed, measurable objectives",
+      "B) How goals align with team or organizational values",
+      "C) Ambitious, innovative possibilities",
+      "D) Practical, achievable outcomes"
+    ],
+    "trait": "goal_setting",
+    "mapping": {
+      "A": "structured",
+      "B": "value_aligned",
+      "C": "ambitious",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In stressful situations, you tend to:",
+    "options": [
+      "A) Stay calm and analyze options logically",
+      "B) Check in with others and provide support",
+      "C) Find creative solutions under pressure",
+      "D) Take decisive action to address immediate concerns"
+    ],
+    "trait": "stress_response",
+    "mapping": {
+      "A": "analytical",
+      "B": "supportive",
+      "C": "adaptive",
+      "D": "action_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your approach to work-life balance is:",
+    "options": [
+      "A) Creating clear boundaries between work and personal life",
+      "B) Ensuring relationships are nurtured in both domains",
+      "C) Flexibly integrating work and personal interests",
+      "D) Focusing on efficiency to make time for both"
+    ],
+    "trait": "boundary_management",
+    "mapping": {
+      "A": "structured",
+      "B": "relationship_focused",
+      "C": "integrated",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When providing feedback to others, you tend to:",
+    "options": [
+      "A) Be thorough and specific about areas for improvement",
+      "B) Balance criticism with positive reinforcement",
+      "C) Suggest creative alternative approaches",
+      "D) Focus on practical changes that will improve results"
+    ],
+    "trait": "feedback_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "balanced",
+      "C": "creative",
+      "D": "results_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach networking and professional relationships?",
+    "options": [
+      "A) Build connections strategically and deliberately",
+      "B) Focus on developing genuine, meaningful relationships",
+      "C) Connect with diverse, interesting individuals",
+      "D) Develop practical, mutually beneficial connections"
+    ],
+    "trait": "social_approach",
+    "mapping": {
+      "A": "strategic",
+      "B": "authentic",
+      "C": "exploratory",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When faced with a complex problem, you typically:",
+    "options": [
+      "A) Break it down into smaller, analyzable components",
+      "B) Discuss it with others to gain different perspectives",
+      "C) Step back to see creative connections and patterns",
+      "D) Focus on the most critical aspects needing immediate solution"
+    ],
+    "trait": "problem_solving",
+    "mapping": {
+      "A": "analytical",
+      "B": "collaborative",
+      "C": "holistic",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prefer to give presentations?",
+    "options": [
+      "A) With thorough preparation and detailed supporting data",
+      "B) Engaging with the audience through interaction",
+      "C) Using creative storytelling and compelling visuals",
+      "D) Concisely delivering key information and action items"
+    ],
+    "trait": "presentation_style",
+    "mapping": {
+      "A": "detailed",
+      "B": "interactive",
+      "C": "creative",
+      "D": "concise"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When implementing new procedures, you prefer to:",
+    "options": [
+      "A) Ensure all details are thoroughly documented",
+      "B) Focus on how changes will affect team members",
+      "C) Find innovative ways to improve the proposed changes",
+      "D) Focus on effective implementation and results"
+    ],
+    "trait": "implementation_approach",
+    "mapping": {
+      "A": "thorough",
+      "B": "people_focused",
+      "C": "innovative",
+      "D": "results_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In meetings, you are most likely to:",
+    "options": [
+      "A) Ask detailed questions to fully understand the topic",
+      "B) Ensure everyone's voice is heard",
+      "C) Suggest creative alternatives or possibilities",
+      "D) Focus on action items and conclusions"
+    ],
+    "trait": "meeting_behavior",
+    "mapping": {
+      "A": "analytical",
+      "B": "inclusive",
+      "C": "ideative",
+      "D": "action_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your approach to career development is to:",
+    "options": [
+      "A) Focus on building specific expertise and credentials",
+      "B) Develop strong professional relationships and networks",
+      "C) Pursue diverse experiences and creative growth",
+      "D) Seek increasing responsibility and concrete advancement"
+    ],
+    "trait": "career_approach",
+    "mapping": {
+      "A": "specialist",
+      "B": "relationship_focused",
+      "C": "exploratory",
+      "D": "advancement_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you handle multiple competing priorities?",
+    "options": [
+      "A) Create a detailed plan with clear prioritization",
+      "B) Collaborate with others to share responsibilities",
+      "C) Flexibly shift between tasks based on inspiration",
+      "D) Focus first on high-impact, urgent items"
+    ],
+    "trait": "priority_management",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "flexible",
+      "D": "impact_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When starting a new job or role, you typically:",
+    "options": [
+      "A) Learn established procedures and systems thoroughly",
+      "B) Focus on building relationships with teammates",
+      "C) Look for opportunities to innovate and improve",
+      "D) Identify how to make an immediate practical impact"
+    ],
+    "trait": "onboarding_approach",
+    "mapping": {
+      "A": "methodical",
+      "B": "relational",
+      "C": "innovative",
+      "D": "impact_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach decision-making when not all information is available?",
+    "options": [
+      "A) Gather as much data as possible before proceeding",
+      "B) Consult others for their insights and perspectives",
+      "C) Trust your intuition and creative problem-solving",
+      "D) Make the best decision possible with available facts"
+    ],
+    "trait": "uncertainty_response",
+    "mapping": {
+      "A": "cautious",
+      "B": "collaborative",
+      "C": "intuitive",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your communication style tends to be:",
+    "options": [
+      "A) Precise, detailed, and carefully worded",
+      "B) Warm, considerate, and relationship-focused",
+      "C) Expressive, enthusiastic, and imaginative",
+      "D) Clear, direct, and to the point"
+    ],
+    "trait": "communication_style",
+    "mapping": {
+      "A": "precise",
+      "B": "empathetic",
+      "C": "expressive",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When a colleague is struggling with a task, you typically:",
+    "options": [
+      "A) Offer specific advice on how to solve the problem",
+      "B) Provide emotional support and encouragement",
+      "C) Suggest creative alternative approaches",
+      "D) Focus on practical ways to help them move forward"
+    ],
+    "trait": "helping_style",
+    "mapping": {
+      "A": "advisory",
+      "B": "supportive",
+      "C": "creative",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you feel about public speaking?",
+    "options": [
+      "A) Comfortable when thoroughly prepared with detailed content",
+      "B) Enjoy connecting with the audience on a personal level",
+      "C) Like using creative storytelling and engaging presentation styles",
+      "D) Prefer to be concise and focus on delivering key messages clearly"
+    ],
+    "trait": "presentation_preference",
+    "mapping": {
+      "A": "prepared",
+      "B": "connective",
+      "C": "creative",
+      "D": "concise"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your approach to professional development is:",
+    "options": [
+      "A) Focus on specific skills with structured learning paths",
+      "B) Learn through collaboration and relationship building",
+      "C) Pursue diverse interests and creative growth opportunities",
+      "D) Target practical skills with clear application to your goals"
+    ],
+    "trait": "development_approach",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "exploratory",
+      "D": "targeted"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When leading a project, you typically focus on:",
+    "options": [
+      "A) Developing detailed plans and monitoring progress",
+      "B) Building team cohesion and addressing concerns",
+      "C) Encouraging innovation and creative problem-solving",
+      "D) Ensuring practical progress toward defined outcomes"
+    ],
+    "trait": "leadership_focus",
+    "mapping": {
+      "A": "structured",
+      "B": "people_focused",
+      "C": "innovative",
+      "D": "results_oriented"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach unfamiliar tasks?",
+    "options": [
+      "A) Research thoroughly before beginning",
+      "B) Ask others who have experience for guidance",
+      "C) Experiment and learn as you go",
+      "D) Focus on mastering the most critical elements first"
+    ],
+    "trait": "learning_approach",
+    "mapping": {
+      "A": "methodical",
+      "B": "collaborative",
+      "C": "experiential",
+      "D": "prioritized"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In collaborative situations, you are known for:",
+    "options": [
+      "A) Contributing thoughtful analysis and attention to detail",
+      "B) Promoting harmony and understanding among team members",
+      "C) Generating innovative ideas and possibilities",
+      "D) Keeping the group focused on practical outcomes"
+    ],
+    "trait": "collaboration_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "harmonizing",
+      "C": "innovative",
+      "D": "focusing"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you react when your ideas are challenged?",
+    "options": [
+      "A) Present detailed evidence to support your position",
+      "B) Seek to understand others' perspectives and find common ground",
+      "C) Use the challenge to develop even more creative solutions",
+      "D) Focus on the practical merits of your approach"
+    ],
+    "trait": "challenge_response",
+    "mapping": {
+      "A": "evidential",
+      "B": "accommodating",
+      "C": "adaptive",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When working on long-term projects, you tend to:",
+    "options": [
+      "A) Create detailed timelines with specific milestones",
+      "B) Ensure regular check-ins with all stakeholders",
+      "C) Keep the approach flexible to incorporate new ideas",
+      "D) Focus on making consistent progress toward completion"
+    ],
+    "trait": "project_management",
+    "mapping": {
+      "A": "structured",
+      "B": "inclusive",
+      "C": "adaptive",
+      "D": "progress_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prefer to celebrate team successes?",
+    "options": [
+      "A) Acknowledge specific contributions and achievements",
+      "B) Focus on the shared experience and team bonding",
+      "C) Find creative or unique ways to celebrate",
+      "D) Keep celebrations efficient and then move to next goals"
+    ],
+    "trait": "recognition_style",
+    "mapping": {
+      "A": "specific",
+      "B": "communal",
+      "C": "creative",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When receiving ambiguous instructions, you typically:",
+    "options": [
+      "A) Ask for clarification and specific details",
+      "B) Discuss interpretations with others",
+      "C) Use the ambiguity as an opportunity for creativity",
+      "D) Focus on the clear aspects and address ambiguities as needed"
+    ],
+    "trait": "ambiguity_response",
+    "mapping": {
+      "A": "clarity_seeking",
+      "B": "collaborative",
+      "C": "adaptive",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When advocating for your ideas, you tend to:",
+    "options": [
+      "A) Present detailed analysis and supporting evidence",
+      "B) Focus on building consensus and addressing concerns",
+      "C) Emphasize the innovative aspects and possibilities",
+      "D) Highlight practical benefits and concrete outcomes"
+    ],
+    "trait": "persuasion_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "consensus_building",
+      "C": "visionary",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you respond to sudden changes in direction or priorities?",
+    "options": [
+      "A) Carefully evaluate the implications before adjusting",
+      "B) Consider how changes will affect team dynamics",
+      "C) Quickly adapt and look for new opportunities",
+      "D) Focus on efficiently redirecting efforts"
+    ],
+    "trait": "change_adaptation",
+    "mapping": {
+      "A": "deliberate",
+      "B": "considerate",
+      "C": "flexible",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In a disagreement with colleagues, you typically:",
+    "options": [
+      "A) Use logical arguments and facts to make your case",
+      "B) Seek common ground and mutual understanding",
+      "C) Look for creative compromises or alternatives",
+      "D) Focus on finding the most practical resolution"
+    ],
+    "trait": "conflict_approach",
+    "mapping": {
+      "A": "logical",
+      "B": "harmonizing",
+      "C": "creative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you handle repetitive tasks?",
+    "options": [
+      "A) Create efficient systems to ensure accuracy",
+      "B) Find ways to collaborate or share responsibilities",
+      "C) Look for ways to add variety or make them more interesting",
+      "D) Complete them efficiently to move on to more important work"
+    ],
+    "trait": "routine_approach",
+    "mapping": {
+      "A": "systematic",
+      "B": "collaborative",
+      "C": "creative",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When onboarding new team members, you focus on:",
+    "options": [
+      "A) Ensuring they understand processes and procedures",
+      "B) Helping them build relationships and feel welcome",
+      "C) Encouraging their fresh perspectives and ideas",
+      "D) Getting them productive and contributing quickly"
+    ],
+    "trait": "onboarding_focus",
+    "mapping": {
+      "A": "process_oriented",
+      "B": "relational",
+      "C": "innovative",
+      "D": "productivity_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your preferred work environment is:",
+    "options": [
+      "A) Quiet, orderly, and free from distractions",
+      "B) Collaborative with opportunities for interaction",
+      "C) Stimulating with variety and creative elements",
+      "D) Efficient and focused on productivity"
+    ],
+    "trait": "environment_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "stimulating",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prepare for a major presentation?",
+    "options": [
+      "A) Create detailed notes and practice thoroughly",
+      "B) Focus on connecting with the audience effectively",
+      "C) Develop engaging visuals and creative elements",
+      "D) Ensure key points are clear and succinctly delivered"
+    ],
+    "trait": "preparation_approach",
+    "mapping": {
+      "A": "thorough",
+      "B": "audience_focused",
+      "C": "creative",
+      "D": "concise"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you respond to failure or setbacks?",
+    "options": [
+      "A) Analyze what went wrong to prevent recurrence",
+      "B) Process emotions and support affected team members",
+      "C) See it as an opportunity to try creative new approaches",
+      "D) Quickly refocus on solutions and next steps"
+    ],
+    "trait": "resilience_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "emotional",
+      "C": "adaptable",
+      "D": "solution_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In team discussions, you are most concerned with:",
+    "options": [
+      "A) Ensuring decisions are based on sound analysis",
+      "B) Making sure everyone feels heard and respected",
+      "C) Exploring diverse and creative possibilities",
+      "D) Reaching clear, actionable conclusions"
+    ],
+    "trait": "discussion_focus",
+    "mapping": {
+      "A": "analytical",
+      "B": "inclusive",
+      "C": "exploratory",
+      "D": "decisive"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When pursuing professional growth, you prioritize:",
+    "options": [
+      "A) Developing deep expertise in specific areas",
+      "B) Building stronger professional relationships",
+      "C) Exploring diverse experiences and creative opportunities",
+      "D) Gaining skills with practical, tangible benefits"
+    ],
+    "trait": "growth_focus",
+    "mapping": {
+      "A": "depth_focused",
+      "B": "relationship_focused",
+      "C": "breadth_focused",
+      "D": "outcome_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach giving presentations?",
+    "options": [
+      "A) Prepare thoroughly with detailed supporting materials",
+      "B) Focus on connecting with and engaging the audience",
+      "C) Incorporate creative elements and compelling storytelling",
+      "D) Deliver key points efficiently with clear takeaways"
+    ],
+    "trait": "presentation_style",
+    "mapping": {
+      "A": "detailed",
+      "B": "engaging",
+      "C": "creative",
+      "D": "concise"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When colleagues are having a conflict, you typically:",
+    "options": [
+      "A) Analyze the situation objectively to identify solutions",
+      "B) Focus on rebuilding relationships and finding harmony",
+      "C) Look for creative approaches that satisfy both parties",
+      "D) Address the issue directly and pragmatically"
+    ],
+    "trait": "mediation_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "harmonizing",
+      "C": "creative",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you typically approach networking events?",
+    "options": [
+      "A) Prepare talking points and target specific connections",
+      "B) Focus on building a few meaningful relationships",
+      "C) Engage with diverse people and explore interesting conversations",
+      "D) Make efficient use of time with purposeful interactions"
+    ],
+    "trait": "networking_style",
+    "mapping": {
+      "A": "structured",
+      "B": "depth_focused",
+      "C": "exploratory",
+      "D": "efficient"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When receiving conflicting directives, you tend to:",
+    "options": [
+      "A) Seek clarification and additional information",
+      "B) Discuss the conflict with all stakeholders",
+      "C) Find creative ways to satisfy multiple objectives",
+      "D) Prioritize based on practical impact and urgency"
+    ],
+    "trait": "conflict_resolution",
+    "mapping": {
+      "A": "clarifying",
+      "B": "collaborative",
+      "C": "integrative",
+      "D": "prioritizing"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your attitude toward workplace policies is:",
+    "options": [
+      "A) They provide necessary structure and should be followed carefully",
+      "B) They work best when considering their impact on people",
+      "C) They should allow for flexibility and creative approaches",
+      "D) They should focus on practical outcomes rather than rigid processes"
+    ],
+    "trait": "policy_orientation",
+    "mapping": {
+      "A": "structured",
+      "B": "people_focused",
+      "C": "flexible",
+      "D": "outcome_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prefer to plan your workday?",
+    "options": [
+      "A) With a detailed schedule and task list",
+      "B) With consideration for team needs and interactions",
+      "C) With flexibility to adapt to inspiration and changing priorities",
+      "D) With focus on high-impact activities first"
+    ],
+    "trait": "planning_approach",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "flexible",
+      "D": "prioritized"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When making a difficult decision, you typically:",
+    "options": [
+      "A) Analyze all available information and potential outcomes",
+      "B) Consider the impact on people and relationships",
+      "C) Look for innovative approaches or alternatives",
+      "D) Focus on what will be most effective in practice"
+    ],
+    "trait": "decision_approach",
+    "mapping": {
+      "A": "analytical",
+      "B": "people_focused",
+      "C": "innovative",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When working on a team project, your primary concern is:",
+    "options": [
+      "A) Ensuring quality and attention to detail",
+      "B) Maintaining positive team dynamics",
+      "C) Bringing innovative ideas and fresh perspectives",
+      "D) Achieving results efficiently"
+    ],
+    "trait": "team_focus",
+    "mapping": {
+      "A": "quality_focused",
+      "B": "relationship_focused",
+      "C": "innovation_focused",
+      "D": "results_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you handle criticism of your work?",
+    "options": [
+      "A) Consider it objectively and look for valid points",
+      "B) Focus on maintaining positive relationships despite disagreement",
+      "C) Use it as inspiration for creative improvements",
+      "D) Determine what practical changes are needed"
+    ],
+    "trait": "criticism_response",
+    "mapping": {
+      "A": "analytical",
+      "B": "relational",
+      "C": "growth_oriented",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In a long meeting, you are most likely to:",
+    "options": [
+      "A) Take detailed notes and track action items",
+      "B) Facilitate discussion and ensure everyone participates",
+      "C) Generate ideas and alternative perspectives",
+      "D) Keep the meeting focused on objectives and outcomes"
+    ],
+    "trait": "meeting_behavior",
+    "mapping": {
+      "A": "detail_oriented",
+      "B": "facilitative",
+      "C": "generative",
+      "D": "focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When facing tight deadlines, you typically:",
+    "options": [
+      "A) Become more structured and methodical",
+      "B) Rally the team for support and collaboration",
+      "C) Find creative shortcuts or innovative approaches",
+      "D) Focus intensely on the most essential elements"
+    ],
+    "trait": "pressure_response",
+    "mapping": {
+      "A": "methodical",
+      "B": "collaborative",
+      "C": "innovative",
+      "D": "focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you prefer to communicate complex information?",
+    "options": [
+      "A) With detailed, thorough explanations and supporting data",
+      "B) Through interactive discussion with opportunity for questions",
+      "C) Using analogies, visuals, and creative explanations",
+      "D) By distilling it to key points and practical implications"
+    ],
+    "trait": "communication_style",
+    "mapping": {
+      "A": "comprehensive",
+      "B": "interactive",
+      "C": "illustrative",
+      "D": "concise"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your approach to workplace disagreements is to:",
+    "options": [
+      "A) Analyze the facts objectively to determine the best approach",
+      "B) Find common ground and maintain positive relationships",
+      "C) Explore creative alternatives that satisfy multiple viewpoints",
+      "D) Address issues directly and find practical solutions"
+    ],
+    "trait": "disagreement_handling",
+    "mapping": {
+      "A": "analytical",
+      "B": "harmonizing",
+      "C": "creative",
+      "D": "direct"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When learning new technology or tools, you prefer to:",
+    "options": [
+      "A) Follow tutorials and documentation systematically",
+      "B) Learn alongside others in a collaborative environment",
+      "C) Explore features through hands-on experimentation",
+      "D) Focus on mastering the most useful functions first"
+    ],
+    "trait": "learning_style",
+    "mapping": {
+      "A": "systematic",
+      "B": "collaborative",
+      "C": "exploratory",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "How do you approach conversations with new colleagues?",
+    "options": [
+      "A) Ask specific questions to understand their role and expertise",
+      "B) Focus on building rapport and finding common ground",
+      "C) Engage in wide-ranging, creative discussions",
+      "D) Establish practical ways you might work together"
+    ],
+    "trait": "social_approach",
+    "mapping": {
+      "A": "informational",
+      "B": "relational",
+      "C": "exploratory",
+      "D": "practical"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "Your preference for receiving instructions is:",
+    "options": [
+      "A) Detailed guidance with specific expectations",
+      "B) Context and the 'why' behind the request",
+      "C) General direction with freedom for creative approach",
+      "D) Clear outcomes with autonomy on execution"
+    ],
+    "trait": "instruction_preference",
+    "mapping": {
+      "A": "detailed",
+      "B": "contextual",
+      "C": "flexible",
+      "D": "outcome_focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When evaluating a new opportunity, you focus most on:",
+    "options": [
+      "A) Analyzing all aspects and potential implications",
+      "B) How it will affect your relationships and work environment",
+      "C) Whether it offers creative growth and new experiences",
+      "D) The practical benefits and concrete outcomes"
+    ],
+    "trait": "opportunity_evaluation",
+    "mapping": {
+      "A": "analytical",
+      "B": "relational",
+      "C": "growth_oriented",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "In group discussions, you are most likely to:",
+    "options": [
+      "A) Ensure points are backed by evidence and logical reasoning",
+      "B) Make sure everyone feels heard and respected",
+      "C) Introduce new perspectives and possibilities",
+      "D) Keep the conversation focused on practical outcomes"
+    ],
+    "trait": "discussion_style",
+    "mapping": {
+      "A": "analytical",
+      "B": "inclusive",
+      "C": "innovative",
+      "D": "focused"
+    },
+    "category": "personality"
+  },
+  {
+    "question": "When setting personal work goals, you tend to:",
+    "options": [
+      "A) Create detailed plans with specific milestones",
+      "B) Consider how goals align with team and organizational objectives",
+      "C) Set aspirational targets that inspire creativity",
+      "D) Focus on achievable outcomes with tangible impact"
+    ],
+    "trait": "goal_setting",
+    "mapping": {
+      "A": "structured",
+      "B": "collaborative",
+      "C": "ambitious",
+      "D": "pragmatic"
+    },
+    "category": "personality"
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "question": "What type of work environment do you prefer?",
+    "options": [
+      "A) A structured corporate office with clear guidelines",
+      "B) A creative and flexible workspace",
+      "C) A research-driven, knowledge-based setting",
+      "D) A fast-paced and dynamic startup environment"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "flexible",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "Which of the following is most important to you in a career?",
+    "options": [
+      "A) Stability and financial security",
+      "B) Creativity and innovation",
+      "C) Helping others and making a difference",
+      "D) Challenge and problem-solving"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "creativity",
+      "C": "helping",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you prefer to organize your work day?",
+    "options": [
+      "A) Following a structured schedule with clear deadlines",
+      "B) Having flexibility to adjust priorities as needed",
+      "C) Alternating between focused work and collaborative sessions",
+      "D) Working intensely on one project at a time until completion"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "flexible",
+      "C": "mixed",
+      "D": "mixed"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What pace of work do you prefer?",
+    "options": [
+      "A) Steady and methodical with time to perfect details",
+      "B) Fast-paced with variety and quick decisions",
+      "C) Alternating between intense periods and reflective phases",
+      "D) Deadline-driven with bursts of activity"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "fast",
+      "C": "varying",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "When choosing a job, which factor would influence you most?",
+    "options": [
+      "A) Salary and benefits package",
+      "B) Opportunity to be creative and innovative",
+      "C) Company mission and social impact",
+      "D) Opportunities for advancement and challenge"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "creativity",
+      "C": "helping",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What work schedule appeals to you most?",
+    "options": [
+      "A) Traditional 9-5 with clear separation between work and personal life",
+      "B) Flexible hours that allow for personal interests and commitments",
+      "C) Project-based work with varying intensity depending on deadlines",
+      "D) Entrepreneurial schedule with independence to set your own hours"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "flexible",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is making a social impact through your work?",
+    "options": [
+      "A) Very important - my work should directly benefit others",
+      "B) Somewhat important - I prefer a balance of personal satisfaction and helping others",
+      "C) Nice to have - but personal achievement comes first",
+      "D) Not essential - I focus on excellence in my field regardless of social impact"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "helping",
+      "B": "helping",
+      "C": "challenge",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What working environment helps you feel most productive?",
+    "options": [
+      "A) Quiet, organized space with minimal distractions",
+      "B) Dynamic, collaborative space with lots of interaction",
+      "C) Varied settings that change based on the task at hand",
+      "D) Remote or independent workspace where I control my environment"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is work-life balance to you?",
+    "options": [
+      "A) Very important - I prioritize maintaining separation between work and personal life",
+      "B) Important, but I'm willing to sacrifice some personal time for the right opportunity",
+      "C) I prefer integration of work and personal interests rather than strict separation",
+      "D) I'm driven by my work and often blend work and personal life"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "creativity",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about taking risks in your career?",
+    "options": [
+      "A) I prefer stability and avoid unnecessary risks",
+      "B) I'm comfortable with calculated risks after careful consideration",
+      "C) I embrace risks as opportunities for growth",
+      "D) I actively seek out challenging situations with high risk/reward"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What aspect of a job posting would catch your attention first?",
+    "options": [
+      "A) Salary range and benefits package",
+      "B) Company culture and work environment",
+      "C) Mission statement and impact potential",
+      "D) Growth opportunities and challenging projects"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "helping",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you prefer to receive feedback on your work?",
+    "options": [
+      "A) Structured performance reviews with clear metrics",
+      "B) Immediate, direct feedback after project completion",
+      "C) Collaborative discussions about growth areas",
+      "D) Minimal oversight with evaluation based on end results"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "When facing a deadline, how do you typically work?",
+    "options": [
+      "A) Start early and work steadily to avoid last-minute pressure",
+      "B) Work intensely in bursts with breaks in between",
+      "C) Focus most effort close to the deadline when adrenaline helps productivity",
+      "D) Carefully plan and schedule to balance multiple deadlines"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "varying",
+      "C": "fast",
+      "D": "structured"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What type of organization would you prefer to work for?",
+    "options": [
+      "A) Established corporation with clear career paths",
+      "B) Nonprofit focused on social or environmental causes",
+      "C) Innovative startup with growth potential",
+      "D) Creative agency or design studio"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "helping",
+      "C": "challenge",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is recognition for your work?",
+    "options": [
+      "A) Very important - I value awards, promotions, and public acknowledgment",
+      "B) Somewhat important - I appreciate recognition but don't require it",
+      "C) I prefer private recognition from people I respect",
+      "D) Not important - personal satisfaction in a job well done is enough"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "challenge",
+      "B": "mixed",
+      "C": "security",
+      "D": "mixed"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your approach to learning new skills for work?",
+    "options": [
+      "A) Formal training programs and structured courses",
+      "B) Self-directed learning at my own pace",
+      "C) Learning through collaboration with colleagues",
+      "D) Just-in-time learning when a specific need arises"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "flexible",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you typically approach big projects?",
+    "options": [
+      "A) Break it down into small, manageable tasks with specific deadlines",
+      "B) Start with a creative brainstorming phase before organizing tasks",
+      "C) Focus on the most challenging aspects first",
+      "D) Adapt my approach based on the specific project requirements"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "structured",
+      "B": "steady",
+      "C": "fast",
+      "D": "varying"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What would make you stay with a company long-term?",
+    "options": [
+      "A) Job security and steady advancement",
+      "B) Continued learning and new challenges",
+      "C) Alignment with personal values and positive impact",
+      "D) Creative freedom and innovative culture"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "challenge",
+      "C": "helping",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you prefer to communicate at work?",
+    "options": [
+      "A) Scheduled meetings with clear agendas",
+      "B) Quick, informal check-ins as needed",
+      "C) Written communication for important matters",
+      "D) A mix depending on the situation"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "flexible",
+      "C": "structured",
+      "D": "mixed"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What motivates you most in your career?",
+    "options": [
+      "A) Financial rewards and career advancement",
+      "B) Solving interesting problems and intellectual challenges",
+      "C) Making a difference in people's lives",
+      "D) Creating something new or innovative"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "challenge",
+      "C": "helping",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is a prestigious company or job title to you?",
+    "options": [
+      "A) Very important - I value the status and opportunities that come with prestigious roles",
+      "B) Somewhat important - It's nice but not essential",
+      "C) Not important - The work itself matters more than the prestige",
+      "D) I actually prefer lesser-known organizations where I can make a bigger impact"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "helping"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How much supervision do you prefer in your work?",
+    "options": [
+      "A) Clear guidance and regular check-ins",
+      "B) Initial direction with periodic feedback",
+      "C) General goals with autonomy on how to achieve them",
+      "D) Minimal supervision with evaluation based on results"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your ideal level of work-related travel?",
+    "options": [
+      "A) Minimal travel with a stable, consistent location",
+      "B) Occasional travel for specific projects or events",
+      "C) Regular travel with a home base to return to",
+      "D) Extensive travel or fully remote/digital nomad lifestyle"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about unexpected changes to your work priorities or projects?",
+    "options": [
+      "A) I prefer to avoid them and stick to the original plan",
+      "B) They're occasionally necessary but should be minimized",
+      "C) I'm adaptable to changes if there's a good reason",
+      "D) I thrive on dynamic environments with shifting priorities"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "structured",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What type of compensation structure do you prefer?",
+    "options": [
+      "A) Stable, predictable salary with standard benefits",
+      "B) Lower base with potential for significant bonuses based on performance",
+      "C) Balanced approach with moderate base and moderate performance-based incentives",
+      "D) Equity or ownership stake with potential for long-term growth"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "challenge",
+      "C": "mixed",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is having a sense of purpose in your work?",
+    "options": [
+      "A) Essential - I need to believe in the mission of my organization",
+      "B) Important - I prefer work that feels meaningful",
+      "C) Somewhat important - But other factors like compensation matter more",
+      "D) Nice to have - But I can find purpose outside of work"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "helping",
+      "B": "helping",
+      "C": "security",
+      "D": "mixed"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about multitasking?",
+    "options": [
+      "A) I prefer focusing on one task at a time until completion",
+      "B) I can manage a few concurrent priorities effectively",
+      "C) I enjoy juggling multiple projects and responsibilities",
+      "D) I thrive when rapidly switching between different types of work"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "mixed",
+      "C": "fast",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What approach to innovation do you prefer?",
+    "options": [
+      "A) Careful refinement and optimization of established practices",
+      "B) Incremental improvements based on data and feedback",
+      "C) Creative problem-solving within defined boundaries",
+      "D) Disruptive innovation that challenges fundamental assumptions"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "creativity",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is geographical location in your career decisions?",
+    "options": [
+      "A) Very important - I have specific locations where I want to live and work",
+      "B) Important - I'm flexible within certain regions or cities",
+      "C) Somewhat important - I prioritize the right opportunity over location",
+      "D) Not important - I'm willing to relocate anywhere for the right position"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you prefer to handle work-related stress?",
+    "options": [
+      "A) Prevent stress through careful planning and organization",
+      "B) Address stressors immediately when they arise",
+      "C) Use stress management techniques to maintain balance",
+      "D) Channel stress into productivity and problem-solving"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "fast",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What role do you prefer technology to play in your work?",
+    "options": [
+      "A) I prefer traditional methods with minimal technology",
+      "B) I use established technologies that enhance efficiency",
+      "C) I embrace new technologies that improve processes",
+      "D) I seek cutting-edge technology and digital innovation"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you view career advancement?",
+    "options": [
+      "A) Clear upward progression through established ranks",
+      "B) Developing deeper expertise in my specific field",
+      "C) Building a diverse portfolio of skills and experiences",
+      "D) Creating my own path that might not follow traditional advancement"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your preferred approach to decision-making in your work?",
+    "options": [
+      "A) Following established protocols and best practices",
+      "B) Data-driven analysis with careful consideration",
+      "C) Balancing analysis with intuition and experience",
+      "D) Quick decisions based on instinct and adaptability"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "structured",
+      "B": "steady",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about public speaking and presentations?",
+    "options": [
+      "A) I prefer to avoid them or stick to carefully prepared scripts",
+      "B) I'm comfortable with them when I have time to prepare properly",
+      "C) I enjoy presenting my ideas and can adapt to different audiences",
+      "D) I thrive on persuasive communication and impromptu speaking"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "structured",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is it to you to continue learning in your career?",
+    "options": [
+      "A) I prefer mastering a specific skill set and being an expert in that area",
+      "B) I value ongoing professional development within my field",
+      "C) I'm committed to continuous learning across various domains",
+      "D) I actively seek transformative learning that challenges my assumptions"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about formal dress codes at work?",
+    "options": [
+      "A) I prefer clear dress codes that maintain professionalism",
+      "B) I'm comfortable with business casual environments",
+      "C) I prefer workplaces that allow reasonable self-expression",
+      "D) I value environments where personal style is welcomed"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you approach work-related conflicts?",
+    "options": [
+      "A) I prefer to follow established conflict resolution procedures",
+      "B) I address issues directly but diplomatically",
+      "C) I look for collaborative solutions that benefit all parties",
+      "D) I see conflicts as opportunities for positive change"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "helping",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What best describes your attitude towards workplace hierarchy?",
+    "options": [
+      "A) I value clear reporting structures and defined authority",
+      "B) I prefer moderate hierarchy with appropriate communication channels",
+      "C) I work best in relatively flat organizations with accessible leadership",
+      "D) I thrive in non-hierarchical settings where authority is based on expertise"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you approach work-life integration?",
+    "options": [
+      "A) I prefer strict separation between work and personal life",
+      "B) I like clear boundaries with occasional flexibility when needed",
+      "C) I'm comfortable with some blending of work and personal life",
+      "D) I seek full integration where work and personal interests overlap"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your preferred frequency of performance feedback?",
+    "options": [
+      "A) Annual or semi-annual formal reviews",
+      "B) Quarterly structured check-ins with defined metrics",
+      "C) Monthly informal discussions about progress",
+      "D) Continuous feedback integrated into daily work"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "structured",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about entrepreneurship?",
+    "options": [
+      "A) I prefer the stability of established organizations",
+      "B) I'm interested in 'intrapreneurship' within existing companies",
+      "C) I'm drawn to startup environments but not necessarily founding",
+      "D) I aspire to create my own business or be self-employed"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What best describes your ideal involvement in workplace decisions?",
+    "options": [
+      "A) I prefer clear direction from leadership on major decisions",
+      "B) I like providing input on decisions that affect my work",
+      "C) I value collaborative decision-making in a team setting",
+      "D) I want substantial autonomy in making decisions related to my responsibilities"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How important is industry prestige in your career choices?",
+    "options": [
+      "A) Very important - I want to work in leading, well-recognized industries",
+      "B) Somewhat important - I prefer established fields but am flexible",
+      "C) Not very important - I focus more on the specific role and company",
+      "D) Not important - I'm drawn to emerging or niche fields regardless of status"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "creativity"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your attitude toward workplace competition?",
+    "options": [
+      "A) I prefer collaborative environments with minimal internal competition",
+      "B) I value healthy competition that drives improvement",
+      "C) I thrive in settings where excellence is recognized and rewarded",
+      "D) I'm motivated by direct competition and performance-based advancement"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "helping",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you approach deadlines?",
+    "options": [
+      "A) I set personal deadlines earlier than required to ensure completion",
+      "B) I create detailed timelines to steadily progress toward deadlines",
+      "C) I balance work across the available time with key milestones",
+      "D) I work intensively as deadlines approach, motivated by time pressure"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "structured",
+      "B": "structured",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your view on company loyalty?",
+    "options": [
+      "A) I value long-term commitment to one organization",
+      "B) I prefer staying with companies for substantial periods (3-5 years)",
+      "C) I believe in staying as long as there's mutual growth and benefit",
+      "D) I pursue the best opportunities regardless of tenure"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "mixed",
+      "C": "challenge",
+      "D": "challenge"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What matters most to you in workplace facilities?",
+    "options": [
+      "A) Professional, well-organized spaces with proper equipment",
+      "B) Comfortable environments that support productivity",
+      "C) Creative spaces that inspire innovation and collaboration",
+      "D) Flexibility to work from anywhere that suits the task"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "creativity",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you view work-related social activities?",
+    "options": [
+      "A) I prefer to maintain professional boundaries with limited social mixing",
+      "B) I enjoy occasional team-building activities during work hours",
+      "C) I value regular opportunities to build relationships with colleagues",
+      "D) I thrive in cultures where professional and social connections blend"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What level of variety do you prefer in your tasks?",
+    "options": [
+      "A) I prefer consistent, well-defined responsibilities",
+      "B) I enjoy a mix of routine tasks and occasional new challenges",
+      "C) I like a balanced variety of different types of work",
+      "D) I thrive on constantly changing responsibilities and novel challenges"
+    ],
+    "trait": "work_pace",
+    "mapping": {
+      "A": "steady",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "fast"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How do you feel about rules and policies in the workplace?",
+    "options": [
+      "A) I value clear rules that are consistently applied",
+      "B) I appreciate guidelines with appropriate flexibility",
+      "C) I prefer principles over rigid rules",
+      "D) I work best with minimal restrictive policies"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "flexible",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "What is your priority when it comes to workplace location?",
+    "options": [
+      "A) Convenient commute and practical considerations",
+      "B) Professional environment in a good business district",
+      "C) Vibrant location with amenities and culture",
+      "D) Flexibility to work remotely or from changing locations"
+    ],
+    "trait": "value_priority",
+    "mapping": {
+      "A": "security",
+      "B": "structured",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  },
+  {
+    "question": "How would you describe your ideal leadership in an organization?",
+    "options": [
+      "A) Clear, directive leadership with strong decision-making",
+      "B) Supportive management that provides guidance and resources",
+      "C) Inspiring leadership that communicates vision and purpose",
+      "D) Hands-off leadership that empowers individuals"
+    ],
+    "trait": "structure_preference",
+    "mapping": {
+      "A": "structured",
+      "B": "mixed",
+      "C": "mixed",
+      "D": "flexible"
+    },
+    "category": "orientation"
+  }
+]

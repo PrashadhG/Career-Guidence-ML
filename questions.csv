@@ -1,0 +1,31 @@
+Category,Question,Option_A,Option_B,Option_C,Option_D,Answer,Explanation
+Numerical Aptitude,"If you have 3 apples and you buy 5 more, how many apples do you have in total?",A) 2 apples,B) 8 apples,C) 15 apples,D) 5 apples,B,3 + 5 = 8
+Numerical Aptitude,What is 10 - 4?,A) 14,B) 6,C) 4,D) 16,B,Subtract 4 from 10.
+Numerical Aptitude,"If a pizza is cut into 8 slices and you eat 3, how many slices are left?",A) 11 slices,B) 5 slices,C) 3 slices,D) 8 slices,B,8 - 3 = 5
+Numerical Aptitude,What is 2 multiplied by 5?,A) 10,B) 7,C) 3,D) 15,A,2 x 5 = 10
+Numerical Aptitude,"If you have 12 cookies and share them equally among 3 friends, how many cookies does each friend get?",A) 4 cookies,B) 9 cookies,C) 3 cookies,D) 6 cookies,A,12 / 3 = 4
+Numerical Aptitude,What is the sum of 7 and 9?,A) 2,B) 16,C) 10,D) 63,B,7 + 9 = 16
+Spatial Aptitude,Which of these shapes is a square?,A) A circle,B) A triangle,C) A rectangle with equal sides,D) A rectangle with unequal sides,C,A square is a rectangle with all four sides equal in length.
+Spatial Aptitude,What shape has three sides and three angles?,A) A square,B) A circle,C) A triangle,D) A rectangle,C,A triangle is defined by having three sides and three angles.
+Spatial Aptitude,"Which pattern continues the sequence: Circle, Square, Circle, Square, ...?",A) Circle,B) Triangle,C) Square,D) Rectangle,A,The pattern alternates between Circle and Square.
+Spatial Aptitude,Identify the shape that is NOT a polygon:,A) Triangle,B) Square,C) Circle,D) Pentagon,C,A polygon is a closed shape with straight sides. A circle has a curved line.
+Spatial Aptitude,Which of these shapes is symmetrical?,A) A random squiggle,B) A scalene triangle,C) A rectangle,D) A crescent moon,C,"A rectangle can be folded in half along its center line, creating two matching halves."
+Spatial Aptitude,"What comes next in this pattern:  Up arrow, Down arrow, Up arrow, Down arrow, ...?",A) Up arrow,B) Left arrow,C) Down arrow,D) Right arrow,A,The pattern alternates between Up and Down arrows.
+Perceptual Aptitude,Which of these images has the most vibrant colors?,A) A grayscale photo of a landscape,B) A photograph of a cloudy sky,C) A painting of a bright red flower,D) A black and white sketch of a building,C,Vibrant colors are bright and intense. The red flower painting is the most likely to have them.
+Perceptual Aptitude,"What is the main subject of this image? (Assume the image contains a large dog in a park, with people and trees in the background)",A) The trees in the park,B) The people in the park,C) The dog,D) The grass,C,The description indicates the dog is the largest and most prominent element in the image.
+Perceptual Aptitude,"If a picture shows a clock showing 3:00, and there is a shadow on the right side of the clock, what is the likely time of day?",A) Morning,B) Afternoon,C) Evening,D) Midnight,B,Shadows typically fall to the right in the afternoon as the sun is in the west.
+Perceptual Aptitude,Which of these shapes is a square?,A) A circle,B) A triangle,C) A rectangle,D) A four-sided shape with equal sides and angles,D,A square is a four-sided shape with equal sides and angles.
+Perceptual Aptitude,"In a picture of a crowded street, what details would help you determine the time of day?",A) The types of cars,B) The number of people,C) The length of the shadows,D) The clothing colors of the people,C,"The length of shadows directly relates to the position of the sun and thus, the time of day."
+Perceptual Aptitude,What is the most important detail to notice when comparing two similar pictures?,A) The overall color scheme,B) The size of the pictures,C) The subtle differences between them,D) The frame of the pictures,C,The point of comparison is to find the subtle changes or disparities between the two pictures.
+Abstract Reasoning,"What number comes next in the sequence: 2, 4, 6, 8, ?",A) 9,B) 10,C) 11,D) 12,B,The pattern is adding 2 to the previous number.
+Abstract Reasoning,"What shape comes next in the sequence: ○, □, ○, □, ?",A) ○,B) △,C) □,D) ▭,A,The pattern alternates between a circle (○) and a square (□).
+Abstract Reasoning,"Find the missing number: 1, 3, 5, __, 9",A) 4,B) 6,C) 7,D) 8,B,The pattern is adding 2 to the previous number.  The missing number is 7.
+Abstract Reasoning,Which image completes the pattern?  [Image sequence showing a simple pattern like increasing number of dots],A) [Image with 4 dots],B) [Image with 3 dots],C) [Image with 5 dots],D) [Image with 2 dots],C,[Explain the pattern based on provided images. Example: The pattern shows an increase of one dot each time.]
+Abstract Reasoning,"What letter comes next in the sequence: A, C, E, G, ?",A) H,B) I,C) J,D) K,B,The pattern skips one letter each time in the alphabet.
+Abstract Reasoning,"Complete the pattern: XOX, XOX, XOX, ?",A) OXO,B) XOX,C) XXX,D) OOO,B,The pattern repeats 'XOX' consistently.
+Verbal Reasoning,What does the word 'synonym' mean?,A) Antonym,B) Homonym,C) Word with the same meaning,D) Word with opposite meaning,C,A synonym is a word that has the same or nearly the same meaning as another word.
+Verbal Reasoning,Read the sentence: 'The cat sat on the mat.'  Which word is the verb?,A) cat,B) sat,C) on,D) mat,B,The verb is the action word; 'sat' describes what the cat did.
+Verbal Reasoning,"If you need to find the definition of a word, what should you use?",A) A dictionary,B) A map,C) A calculator,D) A ruler,A,Dictionaries provide definitions of words.
+Verbal Reasoning,Which sentence uses correct punctuation?,"A) The boy said, 'hello'","B) The boy said, 'Hello! ","C) The boy said, 'Hello!'","D) The boy said, Hello!",C,Option C uses correct punctuation with quotation marks and an exclamation point.
+Verbal Reasoning,The opposite of 'happy' is:,A) Sad,B) Angry,C) Excited,D) Tired,A,Sad is the antonym (opposite) of happy.
+Verbal Reasoning,What does the phrase 'put your foot down' mean?,A) To trip,B) To be assertive,C) To walk slowly,D) To fall down,B,The idiom 'put your foot down' means to be firm and assertive about something.
